@@ -1,31 +1,4 @@
-Anisha Agarwal Interview-11am--Satar Day
-
-without blade
-error type
-stateless
-restfull
-
-put,petch,get,post
-
-auth2
-srevice provider core work
-curcer(),chank()
-depandancy injection()
-abstruct,interface
-final
-normalization
-Event
-git crarify
-join all
-orm
-api type
-closer
-$e and has($e)
-Log and Logger
-OverLoading and Overiding
-finally
-construct
-
+I am Nilkanta
 
 
 
